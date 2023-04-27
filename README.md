@@ -1,4 +1,4 @@
-# Social Login for Winter
+# Social Login for Winter (forked)
 
 The Social Login plugin for Winter CMS allows customers to register and log in to your site with their Facebook, Google, Twitter and other social media accounts. The login page is completely customisable and can theme seamlessly into any Winter site.
 
@@ -29,7 +29,7 @@ Go to System - Updates and in the search field enter **Flynsarmy.SocialLogin**
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Flynsarmy/wn-sociallogin-plugin"
+            "url": "https://github.com/gviabcua/wn-sociallogin-plugin"
         }
     ],
     ```
@@ -37,7 +37,7 @@ Go to System - Updates and in the search field enter **Flynsarmy.SocialLogin**
 * Then run command in console:
 
     ```bash
-    composer require --dev flynsarmy/wn-sociallogin-plugin "dev-master"
+    composer require --dev gviabcua/wn-sociallogin-plugin "dev-master"
     ```
 
 ## Usage
